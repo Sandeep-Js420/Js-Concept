@@ -18,6 +18,13 @@ let carArray=['KIA Sonet','Honda WRV','Audi R8','alto lsi'];
 console.log(shortName);
 
 //Callback abstraction
+
+
+
+
+
+
+
 const geocode=function (address,callback){
     setTimeout(()=>{
       
